@@ -1,6 +1,7 @@
+! [logo]()
 <h1 align="center">Hi 👋, I'm Zain Ahmed</h1>
 <h3 align="center">A Programming Student</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Zain4YESA/Zain4YESA/blob/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain4yesa&label=Profile%20views&color=0e75b6&style=flat" alt="zain4yesa" /> </p>
 
 
