@@ -33,12 +33,9 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/>
-  <img src="Gleam.png" alt="Gleam" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
 </p>
 
 <!-- GitHub Stats -->
@@ -46,12 +43,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zain4yesa&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain4yesa&layout=compact&theme=dark" alt="Top Languages">
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain4yesa&theme=dark" alt="GitHub Streak">
 </p>
@@ -60,3 +54,4 @@
 <p align="center">
   Let's connect and collaborate on exciting projects! 🚀
 </p>
+
