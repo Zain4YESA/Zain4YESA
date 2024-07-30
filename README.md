@@ -27,6 +27,9 @@
   <a href="https://instagram.com/zain4yesa" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+<a href="https://medium.com/@zain4yesa" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
 </p>
 
 <!-- Languages and Tools -->
@@ -34,7 +37,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 </p>
 
 <!-- GitHub Stats -->
@@ -53,4 +56,5 @@
 <p align="center">
   Let's connect and collaborate on exciting projects! 🚀
 </p>
+
 
