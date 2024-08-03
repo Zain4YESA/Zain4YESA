@@ -29,6 +29,9 @@
   </a>
 <a href="https://medium.com/@zain4yesa" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+<a href="https://stackoverflow.com/users/26623751/zain-ahmed?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
 </a>
 </p>
 
